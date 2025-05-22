@@ -83,7 +83,6 @@ label {
 }
 
 input.form-control, select.form-control {
-  color: black;
   border: 1px solid #555;
 }
 
